@@ -66,9 +66,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <footer>
 
-### Changes added
 
-Changes are made to the file.
 
 
 <!--
