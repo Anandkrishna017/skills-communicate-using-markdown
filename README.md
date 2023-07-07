@@ -1,5 +1,4 @@
 <header>
-
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -31,6 +30,9 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
+
+
+
 
 <!--
   <<< Author notes: Footer >>>
